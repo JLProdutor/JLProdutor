@@ -1,10 +1,5 @@
 ### Hi! Sou João Lucas, conhecido como "JL" 👋
 
-<!--
-**JLProdutor/JLProdutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Estudando na EEEP Adolfo Ferreira de Sousa
 - 🌱 Estou estudando Java e JavaScript
 - 💬 Pode falar comigo sobre HTML e CSS
