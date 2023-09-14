@@ -2,12 +2,12 @@
 
 - 🔭 Estudando na EEEP Adolfo Ferreira de Sousa
 - 🌱 Estou estudando Java e JavaScript
-- 💬 Pode falar comigo sobre HTML e CSS
-- 📫 Email para contato: joaolucaslima@gmail.com
+- 💬 Pode falar comigo sobre HTML, CSS e JS
+- 📫 Email para contato: joaolucaslima0207@gmail.com
 
 <div>
 
-  <a href="https://github.com/aglayrton">
+  <a href="https://github.com/JLProdutor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLProdutor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLProdutor&layout=compact&langs_count=7&theme=dark"/>
 
