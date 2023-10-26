@@ -1,7 +1,7 @@
-### Hi! Sou João Lucas, conhecido como "JL" 👋
+### Opa! Sou João Lucas, conhecido como "JL" 👋
 
 - 🔭 Estudando na EEEP Adolfo Ferreira de Sousa
-- 🌱 Estou estudando Java e JavaScript
+- 🌱 Estou estudando React e PHP
 - 💬 Pode falar comigo sobre HTML, CSS e JS
 - 📫 Email para contato: joaolucaslima0207@gmail.com
 
