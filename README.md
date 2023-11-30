@@ -45,7 +45,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://skillicons.dev/icons?i=git,npm">
+				<img src="https://skillicons.dev/icons?i=git">
 			</td>
 		</tr>
 		<tr>
