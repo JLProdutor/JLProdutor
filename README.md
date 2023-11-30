@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-	### Skills
-	<table>
+	 <h2>Skills<h2/>
+	<table style="none">
 		<tr>
 			<td>
 				<img src="https://skillicons.dev/icons?i=vscode,html,css,js,git" />
