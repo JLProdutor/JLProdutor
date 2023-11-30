@@ -20,7 +20,37 @@
 	<table style="none">
 		<tr>
 			<td>
-				<img src="https://skillicons.dev/icons?i=vscode,html,css,js,git" />
+				<img src="https://skillicons.dev/icons?i=,html,css,js,bootstrap,react,ts,wordpress" />
+			</td>
+		<tr/>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=vscode">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=cpp,arduino">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=github,discord,linkedin">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=figma">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=git,npm">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://skillicons.dev/icons?i=netlify">
 			</td>
 		</tr>
 	</table>
