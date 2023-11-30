@@ -17,7 +17,7 @@
 
 <div align="center">
 	 <h2>Skills<h2/>
-	<table display="block" margin-left="auto" margin-right="auto" width="40%">
+	<table margin="auto" padding="10px">
 		<tr>
 			<td>
 				<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,wordpress" />
