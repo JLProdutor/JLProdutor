@@ -29,27 +29,27 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=cpp,arduino">
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=github,discord,linkedin">
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=figma">
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=git,npm">
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=netlify">
 			</td>
 		</tr>
