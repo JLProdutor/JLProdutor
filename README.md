@@ -17,10 +17,10 @@
 
 <div align="center">
 	 <h2>Skills<h2/>
-	<table text-align="center">
+	<table display="block" margin-left="auto" margin-right="auto" width="40%">
 		<tr>
 			<td>
-				<img src="https://skillicons.dev/icons?i=,html,css,js,bootstrap,react,ts,wordpress" />
+				<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,wordpress" />
 			</td>
 		<tr/>
 		<tr>
