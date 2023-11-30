@@ -17,14 +17,14 @@
 
 <div align="center">
 	 <h2>Skills<h2/>
-	<table margin="auto" padding="10px">
+	<table>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,wordpress" />
 			</td>
 		<tr/>
 		<tr>
-			<td>
+			<td align="center">
 				<img src="https://skillicons.dev/icons?i=vscode">
 			</td>
 		</tr>
