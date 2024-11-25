@@ -1,7 +1,7 @@
 ### Opa! Sou João Lucas, conhecido como "JL" 👋
 
-- 🌱 Estou estudando React e Python
-- 💬 Pode falar comigo sobre Lógica de Programação
+- 🌱 Estou estudando React
+- 💬 Pode falar comigo sobre Lógica de Programação & Desenvolvimento Web
 - 📫 Email para contato: joaolucaslima0207@gmail.com
 
 <div>
