@@ -41,7 +41,8 @@
 *February 2021 - December 2023*
 
 ## Contact
-- LinkedIn: [JLProdutor](https://github.com/JLProdutor)
+- GitHub: [JLProdutor](https://github.com/JLProdutor)
+- LinkedIn: [João L. L. Alexandre](https://www.linkedin.com/in/jo%C3%A3o-lucas-lima-alexandre-5911a428b/).
 - E-mail: [joaolucaslima0207@gmail.com](mailto:joaolucaslima0207@gmail.com)
 
 
