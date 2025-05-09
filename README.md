@@ -11,6 +11,7 @@
  - Studying a degree in **Digital Systems and Media** at the Universidade Federal do Ceará (UFC)
  - **Web Developer** for over 2+ years
  - Interested in different areas of programming/coding
+ - Currently programming for **studies**
 
 ## Skills
 - ***Technologies/Languages:*** JavaScript/TypeScript, HTML5, CSS3, C++, WordPress
